@@ -1,3 +1,7 @@
+#!/bin/bash 
+# And: && -a
+# Or: || -o
+
 # if else 
 a=6
 if [ $a -eq 6 ]
